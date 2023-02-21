@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/train
+val: /content/drive/MyDrive/valid 
+nc: 3 
+names: ['DIDI' , 'NANA' , 'JOJO']
